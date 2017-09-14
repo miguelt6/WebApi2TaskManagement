@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/WebApi2TaskManagementDb/WebApi2TaskManagementDb.jfm
